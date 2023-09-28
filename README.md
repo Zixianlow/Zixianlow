@@ -13,8 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/low zi xian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="low zi xian" height="30" width="40" /></a>
-<a href="https://instagram.com/lowzixian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lowzixian" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/low-zi-xian-618779212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="low zi xian" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lzi-xian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lzi-xian" height="30" width="40" /></a>
 </p>
 
