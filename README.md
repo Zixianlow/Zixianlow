@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Data Science, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zixianlow?tab=repositories](https://github.com/Zixianlow?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Personal Github Repo](https://github.com/Zixianlow?tab=repositories)
 
 - 💬 Ask me about **C++, C**
 
