@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Webserv (42KL) Project in C++](https://github.com/NEIL-smtg/webserv)
 
-- 🌱 I’m currently learning **Python, Data Science, HTML, CSS**
+- 🌱 I’m currently learning **Python, Data Science, REACT**
 
 - 👨‍💻 All of my projects are available at [My Personal Github Repo](https://github.com/Zixianlow?tab=repositories)
 
