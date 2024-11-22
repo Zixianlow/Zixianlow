@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Personal Github Repo](https://github.com/Zixianlow?tab=repositories)
 
-- 💬 Ask me about **C++, C**
+- 💬 Ask me about **C#, .Net, C++, C**
 
 - 📫 How to reach me **zixianlow97@gmail.com**
 
